@@ -51,4 +51,4 @@ for i, b in enumerate(daftar_bunga):
 
 t.hideturtle()
 print("Selesai menggambar semua bunga!")
-turtle.done() 
+turtle.done()
