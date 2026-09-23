@@ -1,3 +1,6 @@
+# Tugas Praktikum 5 Soal Selesai
+
+
 def task1_evaluasi_nilai():
     print("\n=== TASK 1: EVALUATE STUDENT PERFORMANCE ===")
     nilai = float(input("Masukkan persentase nilai mahasiswa (%): "))
