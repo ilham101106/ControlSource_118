@@ -1,3 +1,6 @@
+# Materi Latihan Struktur Kontrol
+
+
 answer = input("apakah kamu suka cokelat? : ")
 if answer == "yes" :
     print ("mantap cokelat")
